@@ -1,0 +1,5 @@
+temp.md
+*/migrations/
+*/__pycache__/
+.vscode/
+.env
